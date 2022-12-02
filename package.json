@@ -2,7 +2,7 @@
   "name": "m7_test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://krishchavala38.github.io/m7_test",
+  "homepage": "https://krishchavala38.github.io/Mod7_test",
   "dependencies": {
     "bootstrap": "^5.2.3",
     "cra-template": "1.2.0",
