@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mod7_test/static/css/main.70000e04.css",
+    "main.js": "/Mod7_test/static/js/main.a5e3ec24.js",
+    "index.html": "/Mod7_test/index.html",
+    "main.70000e04.css.map": "/Mod7_test/static/css/main.70000e04.css.map",
+    "main.a5e3ec24.js.map": "/Mod7_test/static/js/main.a5e3ec24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70000e04.css",
+    "static/js/main.a5e3ec24.js"
+  ]
+}
